@@ -1,0 +1,1 @@
+{"name":"Local: boj1983","url":"/home/asd1702/boj/dp/dp기출문제set/boj1983.cpp","tests":[{"id":1740319125190,"input":"7\n-3 -1 -2 0 5 -1 0\n0 -3 2 4 0 5 -2","output":"36"},{"id":1740331661811,"input":"5\n0 0 0 0 0\n0 0 0 0 0","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asd1702/boj/dp/dp기출문제set/boj1983.cpp","group":"local","local":true}

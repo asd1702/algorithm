@@ -1,0 +1,1 @@
+{"name":"Local: boj2343","url":"/home/asd1702/boj/binarySearch/boj2343.cpp","tests":[{"id":1740475493147,"input":"9 3\n1 2 3 4 5 6 7 8 9","output":"17"},{"id":1740476967983,"input":"7 7\n5 9 6 8 7 7 5","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asd1702/boj/binarySearch/boj2343.cpp","group":"local","local":true}

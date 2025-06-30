@@ -1,0 +1,1 @@
+{"name":"Local: boj20207","url":"/home/asd1702/boj/greedy/boj20207.cpp","tests":[{"id":1740837501260,"input":"7\n2 4\n4 5\n5 6\n5 7\n7 9\n11 12\n12 12","output":"28"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asd1702/boj/greedy/boj20207.cpp","group":"local","local":true}

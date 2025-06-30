@@ -1,0 +1,1 @@
+{"name":"Local: boj2637","url":"/home/asd1702/boj/dp/boj2637.cpp","tests":[{"id":1741137412575,"input":"7\n8\n5 1 2\n5 2 2\n7 5 2\n6 5 2\n6 3 3\n6 4 4\n7 6 3\n7 4 5","output":"1 16\n2 16\n3 9\n4 17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asd1702/boj/dp/boj2637.cpp","group":"local","local":true}

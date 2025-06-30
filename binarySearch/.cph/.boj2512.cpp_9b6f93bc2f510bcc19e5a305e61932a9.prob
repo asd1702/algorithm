@@ -1,0 +1,1 @@
+{"name":"Local: boj2512","url":"/home/asd1702/boj/binarySearch/boj2512.cpp","tests":[{"id":1740473334568,"input":"4\n120 110 140 150\n485","output":"127"},{"id":1740473363385,"input":"5\n70 80 30 40 100\n450","output":"100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asd1702/boj/binarySearch/boj2512.cpp","group":"local","local":true}

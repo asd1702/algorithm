@@ -1,0 +1,1 @@
+{"name":"Local: boj5582","url":"/home/asd1702/boj/dp/boj5582.cpp","tests":[{"id":1739015235519,"input":"ABRACADABRA\nECADADABRBCRDARA","output":"5"},{"id":1739015244558,"input":"UPWJCIRUCAXIIRGL\nSBQNYBSBZDFNEV","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asd1702/boj/dp/boj5582.cpp","group":"local","local":true}

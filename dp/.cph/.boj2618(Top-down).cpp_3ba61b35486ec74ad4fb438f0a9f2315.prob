@@ -1,0 +1,1 @@
+{"name":"Local: boj2618(Top-down)","url":"/home/asd1702/boj/dp/boj2618(Top-down).cpp","tests":[{"id":1739688088091,"input":"6\n3\n3 5\n5 5\n2 3","output":"9\n2\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asd1702/boj/dp/boj2618(Top-down).cpp","group":"local","local":true}
